@@ -1,2 +1,1 @@
-# byjus-trex
-Byju's Trex Game for Mobile!
+# PRO-C16-AA2
